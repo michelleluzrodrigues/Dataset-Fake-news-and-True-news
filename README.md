@@ -53,6 +53,6 @@ Este dataset está licenciado sob a [Creative Commons Attribution 4.0 Internatio
 
 Desde que seja dada a devida atribuição à criadora:
 
-**Atribuição**: Michelle Luz Rodrigues
+**Atribuição**: Michelle Da Luz Rodrigues
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
