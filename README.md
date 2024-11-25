@@ -1,4 +1,4 @@
-# Dataset Fake News Brazil
+# Dataset Fake News and True News Brazil
 
 ## Descrição
 
